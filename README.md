@@ -6,13 +6,13 @@
 - 📫 contate-me: no email: samuel.batistela11@gmail.com
 
 <div>
-  <a href="https://github.com/SamuelBatis">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SamuelBatis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBatis&layout=compact&langs_count=7&theme=onedark"/>
+  <a href="https://github.com/USPaiva">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=USPaiva&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USPaiva&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
