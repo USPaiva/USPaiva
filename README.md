@@ -3,7 +3,7 @@
 
 - 💬 Me: Developer
 - 🌱 Estudando: Java, Python e C
-- 📫 contate-me: no email: samuel.batistela11@gmail.com
+- 📫 contate-me: no email: urielpaiva01@gmail.com
 
 <div>
   <a href="https://github.com/USPaiva">
