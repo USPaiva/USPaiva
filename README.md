@@ -2,8 +2,8 @@
 
 
 - 💬 Me: Developer
-- 🌱 Estudando: Java, Python e C
-- 📫 contate-me: no email: urielpaiva01@gmail.com
+- 🌱 Studying: Java, Python e C
+- 📫 contact me by email: urielpaiva01@gmail.com
 
 <div>
   <a href="https://github.com/USPaiva">
