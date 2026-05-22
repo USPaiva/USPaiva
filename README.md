@@ -1,7 +1,7 @@
 # Hi, I'm Uriel Paiva 👋
 
 Mid-Level Data Analyst 💼  
-Computer Engineering 🎗️  
+Computer Engineer 🎗️  
 
 I build data-driven solutions using Python, SQL and Power BI, focused on analytics, automation and insights for decision-making.
 
