@@ -1,8 +1,24 @@
-### Hi there 👋
+# Hi, I'm Uriel Paiva 👋
 
+Mid-Level Data Analyst 💼  
+Computer Engineering 🎗️  
 
-- 💬 Me: Developer
-- 🌱 Langagues: Java, Python, Javascript, C++, C
+I build data-driven solutions using Python, SQL and Power BI, focused on analytics, automation and insights for decision-making.
+
+## 🚀 Tech Stack
+- Python (Pandas, NumPy, Automation)
+- SQL (Data querying & modeling)
+- Power BI (Dashboards & BI)
+- Git / GitHub
+- Basic Cloud & APIs
+
+## 🌍 Languages
+- English: Fluent
+- German: Basic
+
+## 🎯 Focus
+Data Analytics | Business Intelligence | Automation
+
 - 📫 Contact me by email: urielpaiva01@gmail.com
 
 <div>
