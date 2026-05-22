@@ -2,7 +2,7 @@
 
 
 - 💬 Me: Developer
-- 🌱 Studying: Java, Python
+- 🌱 Langagues: Java, Python, Javascript, C++, C
 - 📫 Contact me by email: urielpaiva01@gmail.com
 
 <div>
